@@ -86,3 +86,12 @@ article h2
 {
     font-size: 16px;
 }
+
+.formacao
+{
+    padding-top: 12px;
+    padding-left: 24px;
+    padding-right: unset;
+    border-style: solid;
+    border-width: 0.6px 0px 0px 0px;
+}
