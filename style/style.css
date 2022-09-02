@@ -11,6 +11,16 @@ header
     display: flex;
 }
 
+ul
+{
+    list-style: none;
+}
+
+#informacoes h3
+{
+    font-size: 80%;
+}
+
 figure
 {
     display: flex;
@@ -31,3 +41,28 @@ footer
     font-size: small;
 }
 
+
+a
+{
+    text-decoration: none;
+}
+
+a:link
+{
+    color:black;
+}
+
+a:visited
+{
+    color: black;
+}
+a:hover
+{
+    color:rgb(28, 22, 67);
+    text-decoration: underline;
+}
+
+#clique
+{
+    color:rgb(140, 42, 165)
+}
