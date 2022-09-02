@@ -1,3 +1,14 @@
+#profilepic
+{
+    border-radius: 40px;
+    width: 240px;
+}
+
+main
+{
+    margin-left: 40px;
+}
+
 body
 {
     background-color: rgba(201, 192, 159, 0.4);
@@ -65,4 +76,13 @@ a:hover
 #clique
 {
     color:rgb(140, 42, 165)
+}
+
+article h1
+{
+    font-size: 24px;
+}
+article h2
+{
+    font-size: 16px;
 }
