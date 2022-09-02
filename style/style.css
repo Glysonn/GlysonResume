@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgba(201, 192, 159, 0.4);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+header
+{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+}
+
+figure
+{
+    display: flex;
+    justify-items: right;
+    justify-content: space-between;
+}
+
+.title
+{
+    font-size: 23px;
+}
+
+footer
+{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    font-size: small;
+}
+
